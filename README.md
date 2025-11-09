@@ -112,8 +112,6 @@ custom-shell/
 
 ## Working Images
 
-<img width="1483" height="755" alt="image" src="https://github.com/user-attachments/assets/6430c4ae-998f-4d37-b87b-9367150cfc82" />
-
 ![ss](https://github.com/user-attachments/assets/bab9b3d9-d582-4e71-910a-0f655839c900)
 
 
