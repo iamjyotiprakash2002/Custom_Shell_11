@@ -78,18 +78,6 @@ fg 1
 
 ---
 
-## 🐳 CI/CD with Jenkins + DockerHub
-
-A Jenkins Pipeline is included to:
-
-- Build the shell executable
-- Build a Docker image
-- Push the image to DockerHub automatically
-
-See `Jenkinsfile` for details.
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -104,8 +92,6 @@ custom-shell/
 │   └── jobs.h
 ├── bin/
 ├── Makefile
-├── Dockerfile
-└── Jenkinsfile
 ```
 
 ---
